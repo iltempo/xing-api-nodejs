@@ -1,5 +1,3 @@
-# xing_api.js [![Build Status](https://secure.travis-ci.org/volkert/xing-apijs.png?branch=master)](http://travis-ci.org/volkert/xing-apijs)
-
 XING API client for Node.js (Work in progress, not ready for production yet!)
 
 ## Getting Started
